@@ -13,8 +13,10 @@ export function Subscribe() {
 
 
 
-  async function handleSunbscribe(event: FormEvent) {
+  async function handleSubscribe(event: FormEvent) {
     event.preventDefault();
+
+    console.log(name, email)
 
     await createSubscriber({
       variables: {
@@ -40,7 +42,7 @@ export function Subscribe() {
         <div className="p-8 bg-gray-700 border border-gray-500 rounded">
           <strong className="text-2xl mb-6 block">Inscreva-se gratuitamente</strong>
 
-          <form onSubmit={handleSunbscribe} className="flex flex-col gap-2 w-full">
+          <form onSubmit={handleSubscribe} className="flex flex-col gap-2 w-full">
             <input
              className="bg-gray-900 rounded px-5 h-14"
              type="text"
