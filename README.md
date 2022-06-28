@@ -2,7 +2,7 @@
 event platform ignite lab by RoketSeat
 
 <h1 align="center">
-  <img alt="igniteLab" title="igniteLab" src="[.github/logo.png](https://github.com/danielNishimura/event-platform/blob/main/src/assets/page.png)" />
+  <img alt="igniteLab" title="igniteLab" src="https://github.com/danielNishimura/event-platform/blob/main/src/assets/page.png" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@ event platform ignite lab by RoketSeat
 <br>
 
 <p align="center">
-  <img alt="Plataforma de evento" src=".github/moveit.png" width="100%">
+  <img alt="Plataforma de evento" src="https://github.com/danielNishimura/event-platform/blob/main/src/assets/page.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
