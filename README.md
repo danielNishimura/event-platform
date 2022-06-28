@@ -2,7 +2,7 @@
 event platform ignite lab by RoketSeat
 
 <h1 align="center">
-  <img alt="igniteLab" title="igniteLab" src=".github/logo.png" />
+  <img alt="igniteLab" title="igniteLab" src="[.github/logo.png](https://github.com/danielNishimura/event-platform/blob/main/src/assets/page.png)" />
 </h1>
 
 <p align="center">
@@ -44,8 +44,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## 🚀 Como executar
 
 - Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie o servidor com `yarn dev`
+- Instale as dependências com `npm`
+- Inicie o servidor com `npm run dev`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
