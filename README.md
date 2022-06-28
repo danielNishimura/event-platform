@@ -21,10 +21,6 @@ event platform ignite lab by RoketSeat
 
 <br>
 
-<p align="center">
-  <img alt="Plataforma de evento" src="https://github.com/danielNishimura/event-platform/blob/main/src/assets/page.png" width="100%">
-</p>
-
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
